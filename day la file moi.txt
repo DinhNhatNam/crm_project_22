@@ -2,5 +2,5 @@
 máy A thêm nội dung cho task mới
 Nội dung mới của máy B cho file mới
 
-git server thêm nội dung 
+git server thêm nội dung 2 3 4 5 
  commit b2
