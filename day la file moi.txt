@@ -9,3 +9,6 @@ Nội dung mới của máy B cho file mới
 git server thêm nội dung 2 3 4 5 
  commit b2
 
+
+hiii
+
