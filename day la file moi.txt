@@ -1,1 +1,4 @@
+
 máy A thêm nội dung cho task mới
+Nội dung mới của máy B cho file mới
+
